@@ -50,8 +50,5 @@ public class farmersMarket {
         sam.placeOrder();
         maria.prepareProduce();
         strawberries.pack();
-
-        System.out.println("Sam enjoys the fresh aroma of the strawberries.");
-        System.out.println(maria.name + " smiles, happy with her customers.");
     }
 }
